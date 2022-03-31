@@ -26,6 +26,7 @@ There's a Git tag for each step (as long as the step contains code changes).
 | [v0.2.0](https://github.com/travishorn/nextjs-lighthouse/tree/v0.2.0)   | [Image Optimization](https://nextjs.org/learn/seo/improve/images)                                 |
 | [v0.3.0](https://github.com/travishorn/nextjs-lighthouse/tree/v0.3.0)   | [Dynamic Imports](https://nextjs.org/learn/seo/improve/dynamic-imports)                           |
 | [v0.4.0](https://github.com/travishorn/nextjs-lighthouse/tree/v0.4.0)   | [Dynamic Imports for Components](https://nextjs.org/learn/seo/improve/dynamic-import-components)  |
+| [v0.5.0](https://github.com/travishorn/nextjs-lighthouse/tree/v0.5.0)   | [Custom Reporting](https://nextjs.org/learn/seo/monitor/custom-reporting)                         |
 
 ## License
 
